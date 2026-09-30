@@ -1,0 +1,6 @@
+{
+  "name": "Custom Cache Library & Live Metrics Panel",
+  "description": "Production-grade generic Java in-memory cache library with pluggable LRU & LFU eviction, per-entry TTL, lock-based thread safety, and live metrics visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

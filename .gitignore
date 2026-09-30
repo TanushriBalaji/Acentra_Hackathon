@@ -1,0 +1,13 @@
+# Java / Maven build output
+/target/
+*.class
+
+# Node / React build output
+/node_modules/
+/dist/
+.DS_Store
+
+# IDE configuration
+.idea/
+.vscode/
+*.iml
